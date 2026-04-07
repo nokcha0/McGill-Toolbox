@@ -3,6 +3,7 @@
 // @namespace    https://tampermonkey.net/
 // @version      0.2
 // @match        https://mycourses2.mcgill.ca/d2l/le/lessons/*
+// @match        https://mycourses2.mcgill.ca/d2l/lp/*
 // @run-at       document-idle
 // @grant        GM_addStyle
 // ==/UserScript==
